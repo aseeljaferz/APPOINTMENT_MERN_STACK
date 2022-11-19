@@ -1,0 +1,15 @@
+.firstdiv{
+  margin-top: 15%;
+  text-align: center;
+  border: 1px solid none;
+}
+
+.maindiv
+{
+    position: absolute;
+    border: 1px solid black;
+    margin-left: -39.5%;
+    margin-top: -15%;
+    width: 139.5%;
+    height: 10%;
+}

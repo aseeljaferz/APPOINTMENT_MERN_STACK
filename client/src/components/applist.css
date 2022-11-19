@@ -1,0 +1,229 @@
+.listdiv
+{
+    position: absolute;
+    border: 1px solid none;
+    height: auto;
+    width: 71.66%;
+    margin-top: -40px;
+    margin-left: -350px;
+    background-color: rgb(193, 219, 219);
+}
+
+.wholelist
+{
+    border: 1px solid none;
+    border-radius: 20px;
+    height: 70%;
+    width: 80%;
+    margin-left: 9.5%;
+}
+
+.name
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.namebox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.pname
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+
+.age
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.agebox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.page
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+
+.email
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.emailbox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.pemail
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+
+.pno
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.pnobox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.ppno
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+
+.address
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.addressbox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.paddress
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+
+.state
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.statebox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.pstate
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+
+.city
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.citybox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.pcity
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+
+.pincode
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.pincodebox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.ppincode
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+
+.date
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.datebox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.pdate
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+
+.problem
+{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 100%;
+    height: 50px;
+    margin-left: 1px;
+}
+.problembox
+{
+    border-right: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
+.pproblem
+{
+    border-left: 1px solid black;
+    width: 50%;
+    padding-top: 10px;font-size: larger;
+}
